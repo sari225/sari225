@@ -21,6 +21,9 @@ I enjoy exploring different areas of development — from frontend interfaces to
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+### 🌱 About Me
+I’m always eager to expand my knowledge and refine my skills through hands-on projects and teamwork.  
+I’m currently seeking a challenging position where I can apply my skills, work on exciting projects, and continue learning as a developer.
 
 
 <!--
