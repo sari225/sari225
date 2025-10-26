@@ -1,9 +1,7 @@
-
-# Hi, I'm Sari 👋  
+# Hi, I'm Sari 👋
 
 I'm a **Software Developer** with a passion for problem-solving, learning new technologies, and building creative, reliable applications.  
 I enjoy exploring different areas of development — from frontend interfaces to backend systems — and finding smart, efficient ways to connect them.
-
 
 ### 💻 Some of the technologies I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -25,18 +23,6 @@ I enjoy exploring different areas of development — from frontend interfaces to
 I’m always eager to expand my knowledge and refine my skills through hands-on projects and teamwork.  
 I’m currently seeking a challenging position where I can apply my skills, work on exciting projects, and continue learning as a developer.
 
+📫 **Contact:** sariwork85@gmail.com  
 
-<!--
-**sari225/sari225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Let’s build amazing things together!*
