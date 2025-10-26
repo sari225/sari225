@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Sari 👋  
 
 I'm a **Software Developer** with a passion for problem-solving, learning new technologies, and building creative, reliable applications.  
