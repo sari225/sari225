@@ -1,7 +1,7 @@
 # Hi, I'm Sari 👋
 
 I'm a **Software Developer** with a passion for problem-solving, learning new technologies, and building creative, reliable applications.  
-I enjoy exploring different areas of development — from frontend interfaces to backend systems — and finding smart, efficient ways to connect them.
+I enjoy exploring different areas of development from frontend interfaces to backend systems and finding smart, efficient ways to connect them.
 
 ### 💻 Some of the technologies I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
